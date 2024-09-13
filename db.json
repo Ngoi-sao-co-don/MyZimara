@@ -1,0 +1,36 @@
+{
+    "shops": [
+      {
+        "shop_id":111,
+        "shop_name":"Apple Flagship Store",
+        "":"https://shopee.vn/apple_flagship_store?categoryId=100644&entryPoint=cart&itemId=24871020824",
+        "Products":[
+          { "product_id": 111, "name": "Điện thoại iPhone 15 Pro Max 256GB", "sale_price": 30390000, "product_image":"https://down-vn.img.susercontent.com/file/05ed832c5cdc8a7e5c5d64d1622c351e", "stock": 2, "classification_name":["Titan - Tự Nhiên"], "link_to_product":"https://shopee.vn/%C4%90i%E1%BB%87n-tho%E1%BA%A1i-Apple-iPhone-15-Pro-Max-256GB-i.88201679.20493037179?xptdk=c0b7086b-c2b4-43c0-9a46-fb2809b6dda0"},
+          { "product_id": 222, "name": "Tai nghe AirPods Pro (thế hệ thứ 2) với Hộp Sạc MagSafe (USB-C)", "sale_price": 5690000, "product_image":"https://down-vn.img.susercontent.com/file/00d05024f492dcec4efae04c1521b66a", "stock": 1000, "classification_name":["Chính hãng"], "link_to_product":"https://shopee.vn/Tai-nghe-AirPods-Pro-(th%E1%BA%BF-h%E1%BB%87-th%E1%BB%A9-2)-v%E1%BB%9Bi-H%E1%BB%99p-S%E1%BA%A1c-MagSafe-(USB-C)-i.88201679.21693729352?xptdk=ae6bc768-2955-41b6-8ae9-42ae5d997c40"},
+          { "product_id": 333, "name": "Apple MacBook Air M2 2022 13.6 inch, 16GB/256GB/8C CPU", "sale_price": 34999000, "product_image":"https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-ltcncgvnc6v87d", "stock": 8, "classification_name":["Space Grey"], "link_to_product":"https://shopee.vn/Apple-MacBook-Air-M2-2022-13.6-inch-16GB-256GB-8C-CPU-10C-GPU-i.88201679.24871020824?xptdk=3a342d70-0e04-4fbb-9357-8e185ebdc2b4"}
+        ]
+      },
+      {
+        "shop_id":222,
+        "shop_name":"Razer Flagship Store",
+        "":"https://shopee.vn/razervietnam?categoryId=100644&entryPoint=cart&itemId=23154857155",
+        "Products":[
+          { "product_id": 444, "name": "Bàn phím Gaming Razer BlackWidow V3 Mini 68 Phím | 2.4 Ghz", "sale_price": 2329000, "product_image":"https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfcqizxsn9md09", "stock": 5, "classification_name":["Green"], "link_to_product":"https://shopee.vn/B%C3%A0n-Ph%C3%ADm-Gaming-Razer-BlackWidow-V3-Mini-68-Ph%C3%ADm-2.4GHz-Bluetooth-C%C3%A1p-USB-C-N-key-v%E1%BB%9Bi-Anti-ghosting-ABS-double-i.891464052.19861380690?xptdk=cdee8d55-b056-4622-a4d0-dd7e606fa521"},
+          { "product_id": 555, "name": "Chuột Gaming Razer Viper V3 | HyperSpeed Wireless 2.4 Ghz", "sale_price": 1690000, "product_image":"https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llor8l6tlxi723", "stock": 28, "classification_name":["Black"], "link_to_product":"https://shopee.vn/Chu%E1%BB%99t-Gaming-Razer-Viper-V3-HyperSpeed-Wireless-2.4Ghz-30000-DPI-Switches-Gen-2-750-IPS-6-N%C3%BAt-L%E1%BA%ADp-Tr%C3%ACnh-82g-i.891464052.23154857155?xptdk=d168714e-2e60-45d7-af24-d7cf9bf89a3f"}
+        ]
+      },
+      {
+        "shop_id":333,
+        "shop_name":"LeeZone",
+        "":"https://shopee.vn/leezone.vn?categoryId=100011&entryPoint=cart&itemId=25254506538",
+        "Products":[
+          { "product_id": 666, "name": "Áo khoác Kaki name LeeZone cao cấp | Kaki khóa kéo Đen", "sale_price": 270000, "product_image":"https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lpkso8ttdmcb72", "stock": 14, "classification_name":["L", "Đen"], "link_to_product":"https://shopee.vn/%C3%81o-kho%C3%A1c-Kaki-nam-LeeZone-cao-c%E1%BA%A5p-Kaki-kh%C3%B3a-k%C3%A9o-%C4%90en-ch%E1%BA%A7n-tr%C3%A1m-i.46855166.25254506538?xptdk=e5123e7a-3219-4621-b19f-313119c8f513"}
+        ]
+      }
+    ],
+    "PlaceOrder":[
+      {"id": 111, "shop_name":"Apple Flagship Store","name":"Apple MacBook Air M2 2022 13.6 inch, 16GB/256GB/8C CPU", "image":"https://down-vn.img.susercontent.com/file/05ed832c5cdc8a7e5c5d64d1622c351e", "classification_name":["Titan - Tự Nhiên"], "quantityCount":2, "totalPrice": 60780000},
+      {"id": 222, "shop_name":"Apple Flagship Store","name":"Tai nghe AirPods Pro (thế hệ thứ 2) với Hộp Sạc MagSafe (USB-C)", "image":"https://down-vn.img.susercontent.com/file/00d05024f492dcec4efae04c1521b66a", "classification_name":["Chính hãng"], "quantityCount":1, "totalPrice": 5690000}
+    ]
+}
+  
