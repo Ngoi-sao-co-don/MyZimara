@@ -1,6 +1,19 @@
-*{
-  border: none;
-  padding: none;
-  margin: none;
-  box-sizing: border-box;
+* {
+    border: none;
+    padding: none;
+    margin: none;
+    box-sizing: border-box;
+}
+:root {
+    --color-black: #000000;
+    --color-white: #ffffff;
+    --color-background: #f4f4f5;
+    --color-gray: #d6d4d4;
+    --primary-color: #3f51b5;
+    --text-color-gray: #888888;
+    --color-orange: #ff8343;
+}
+.App {
+    background-color: var(--color-background);
+    min-height: 100vh;
 }
